@@ -1,10 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
+   .git file and in that directory ,And from now you can use git command
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+      working area add files to staging area
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+if you want commit any folder from working area you will add specific folder you add it in staging area
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
